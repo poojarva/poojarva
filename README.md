@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pooja!
+- 💻 I’m interested in Cloud Computing, Artificial Intelligence, Machine Learning, and Backend Software Engineering
+- 🌱 I’m currently learning Financial Trading Models using Machine Learning, Natural Learning Process, and AWS ☁
+- 📫 Email: poojapdx@gmail.com
